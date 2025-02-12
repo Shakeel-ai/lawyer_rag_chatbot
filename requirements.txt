@@ -71,7 +71,7 @@ pydantic==2.10.6
 pydantic_core==2.27.2
 pyparsing==3.2.1
 python-dotenv
-pywin32==308
+pywin32
 PyYAML==6.0.2
 qdrant-client==1.13.2
 regex==2024.11.6
